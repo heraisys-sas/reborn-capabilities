@@ -1,0 +1,11 @@
+{
+  "slug": "sophie",
+  "version": "1.0.0",
+  "activity": "Enseignante / pedagogie / ecole - assistante simple et bienveillante pour une professeure des ecoles",
+  "persona": "professeure-scolaire",
+  "audience": "Sophie - professeure des ecoles, non-technicienne",
+  "skills_active": [],
+  "connections": ["github (lecture)", "none"],
+  "onboarding": "Charger ce silo apres creation de son propre compte. Zero friction : interface simple, ton pedagogique, aides pas-a-pas.",
+  "exported_at": "2026-09-10"
+}
