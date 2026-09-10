@@ -1,0 +1,11 @@
+{
+  "slug": "mikemeld",
+  "version": "1.0.0",
+  "activity": "Cybersecurite, CTF, operations/defense, investigation d'acteur malveillant encadree, outillage",
+  "persona": "mikemeld",
+  "audience": "Experte cybersecurite / pentest (habilitation propre)",
+  "skills_active": ["subagent-inference", "gh-actions-runtime"],
+  "connections": ["github (rw)", "cudos"],
+  "onboarding": "Environnement pret a l'emploi pour accentuer l'onboarding : persona, outils, skills deja references. Vise le confort immediat.",
+  "exported_at": "2026-09-10"
+}
