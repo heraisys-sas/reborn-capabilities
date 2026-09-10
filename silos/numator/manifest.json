@@ -1,0 +1,11 @@
+{
+  "slug": "numator",
+  "version": "1.0.0",
+  "activity": "UX/UI tableaux de bord de pointe, connexion aux appareils d'analyse, transcription medicale IA. Gros projet.",
+  "persona": "numator-ux",
+  "audience": "Designer/ingenieur UX-UI senior, stack data-visualisation",
+  "skills_active": ["gh-actions-runtime", "subagent-inference"],
+  "connections": ["github (rw)", "cudos", "devices-API"],
+  "onboarding": "Environnement pret : structuration projet, reperes stack, acces CUDOS pour l'IA de transcription, patterns de dashboards.",
+  "exported_at": "2026-09-10"
+}
